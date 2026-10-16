@@ -1,4 +1,60 @@
-Hi, I'm ruinjay 👋
-[EN](README.md) · [中文](README.zh-CN.md)
+<sub>[EN](README.md) · [中文](README.zh-CN.md)</sub>
 
-> 探索 AI 能为生活和工作带来什么。
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=%E6%88%91%E6%98%AF+ruinjay%EF%BC%8C%E5%85%B3%E6%B3%A8+IBD+/+PE-VC+/+AI" alt="Hi"/>
+  <p>
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
+    <strong>探索 AI 能为生活和工作带来什么。</strong>
+  </p>
+</div>
+
+
+## 关于我
+
+### 🏫 中国人民大学 | PPE | 2028 届
+
+<!-- 访问计数器（Moe-Counter 像素小人）。
+     注意：该服务对缺少 Referer 的抓取返回 403，而 GitHub 的 Camo 图片代理正是不带 Referer 抓图，
+     因此下面这行有较大概率在 GitHub 上不显示。
+     若上线后该位置空白，删掉这行，改用后面被注释的 komarev 徽章。 -->
+<img align="right" src="https://count.getloli.com/get/@ruinjay?theme=moebooru&scale=1.1" alt="ruinjay" width="400"/>
+<!-- <img align="right" src="https://komarev.com/ghpvc/?username=ruinjay&style=flat-square&color=0078D7" alt="Profile Views" width="400"/> -->
+
+### 🌱 实习经历
+
+- `Tencent` : `CSIG 战略管理组`
+- `NRL Capital` : `FOF / 硬科技`
+
+### 💻 联系我
+
+- 📕 小红书 : `如影`
+- 📫 邮箱 : `jay_ruin20@163.com`
+
+
+<br><br>
+
+<!-- 技能徽章墙：待补充。
+     分组语义 —— 研究侧与工程侧分开放，各自独立成行，中间空一行。
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+-->
+
+
+<div style="margin: 10px 0">
+  <a href="mailto:jay_ruin20@163.com">
+    <img src="https://img.shields.io/badge/jay_ruin20%40163.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <img src="https://img.shields.io/badge/RedBook-%E5%A6%82%E5%BD%B1-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white" alt="RedBook"/>
+</div>
+
+
+
+
+<div align="center" style="margin: 20px 0; width: 100%;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ruinjay/ruinjay/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ruinjay/ruinjay/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ruinjay/ruinjay/output/github-contribution-grid-snake.svg" style="width: 100%; border-radius: 8px;">
+  </picture>
+</div>
