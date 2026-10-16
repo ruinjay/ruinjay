@@ -13,12 +13,13 @@
 
 ### 🏫 Renmin University of China | PPE | Class Of 2028
 
-<!-- 访问计数器。
-     原本用的是 Moe-Counter 像素小人（count.getloli.com），2026-10-16 实测该服务对 GitHub
-     的 Camo 抓取返回 429，线上渲染出来是 "Invalid upstream response (429)" 一行错误文本，
-     故改用 komarev。想让像素小人回来，把下面两行对调即可（先确认 getloli 是否已恢复）。 -->
-<img align="right" src="https://komarev.com/ghpvc/?username=ruinjay&style=flat-square&color=0078D7" alt="Profile Views"/>
-<!-- <img align="right" src="https://count.getloli.com/get/@ruinjay?theme=moebooru&scale=1.1" alt="ruinjay" width="400"/> -->
+<!-- 访问计数器：暂不启用。
+     2026-10-16 实测 GitHub 的 Camo 图片代理无法稳定抓取这类服务 ——
+     count.getloli.com 返回 429，komarev.com 间歇性返回 "Error Fetching Resource"，
+     线上会随机裂图，故移除。日后若找到能稳定通过 Camo 的服务再加回。
+     （参考稿 blackirlsama 用的就是 getloli，他那块同样是坏的。）
+     <img align="right" src="https://count.getloli.com/get/@ruinjay?theme=moebooru&scale=1.1" alt="ruinjay" width="400"/>
+-->
 
 ### 🌱 Internship Experience
 
