@@ -13,12 +13,12 @@
 
 ### 🏫 Renmin University of China | PPE | Class Of 2028
 
-<!-- 访问计数器（Moe-Counter 像素小人）。
-     注意：该服务对缺少 Referer 的抓取返回 403，而 GitHub 的 Camo 图片代理正是不带 Referer 抓图，
-     因此下面这行有较大概率在 GitHub 上不显示。
-     若上线后该位置空白，删掉这行，改用后面被注释的 komarev 徽章。 -->
-<img align="right" src="https://count.getloli.com/get/@ruinjay?theme=moebooru&scale=1.1" alt="ruinjay" width="400"/>
-<!-- <img align="right" src="https://komarev.com/ghpvc/?username=ruinjay&style=flat-square&color=0078D7" alt="Profile Views" width="400"/> -->
+<!-- 访问计数器。
+     原本用的是 Moe-Counter 像素小人（count.getloli.com），2026-10-16 实测该服务对 GitHub
+     的 Camo 抓取返回 429，线上渲染出来是 "Invalid upstream response (429)" 一行错误文本，
+     故改用 komarev。想让像素小人回来，把下面两行对调即可（先确认 getloli 是否已恢复）。 -->
+<img align="right" src="https://komarev.com/ghpvc/?username=ruinjay&style=flat-square&color=0078D7" alt="Profile Views"/>
+<!-- <img align="right" src="https://count.getloli.com/get/@ruinjay?theme=moebooru&scale=1.1" alt="ruinjay" width="400"/> -->
 
 ### 🌱 Internship Experience
 
