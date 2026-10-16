@@ -1,7 +1,9 @@
 <sub>[EN](README.md) · [中文](README.zh-CN.md)</sub>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=I'm+ruinjay,+Currently+Focusing+on+IBD+/+PE-VC+/+AI" alt="Hi"/>
+  <!-- width 必须大于文本实际宽度，否则 center=true 会把两端裁掉。
+       该服务默认 width=400，不会自适应。改文案后要同步调大此值。 -->
+  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&width=640&lines=I'm+ruinjay,+Currently+Focusing+on+IBD+/+PE+VC+/+AI" alt="Hi"/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px"/>
     <strong>Exploring what AI can do for everyday life and work.</strong>
